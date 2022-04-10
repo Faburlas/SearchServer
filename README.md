@@ -1,5 +1,9 @@
 # SearchServer
-Search engine that ranging on TF-IDF. Work like yandex search engine
+Search engine that ranging on TF-IDF. Work like yandex search engine.
+
+Cамописный поисковой движок использующий TF-IDF ранжирование, с возможностью учета минус-слов и пагинации.
+Функция нахождения похожих запросов имеет возможность работать в последовательном и параллельном режимах.
+
 # Использование:
 Пример в main.cpp
 # TODO list:
